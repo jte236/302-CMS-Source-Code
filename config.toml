@@ -1,6 +1,6 @@
 baseURL = "https://confident-jones-82287b.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ICT 302 Pesonal Class Blog"
 theme = "ananke"
 
 [build]
