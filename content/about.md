@@ -6,4 +6,4 @@ draft: false
 
 Test Into page
 
-![a picture of j.t.](https://github.com/jte236/302-CMS-Source-Code/blob/master/content/profilepic.jpeg)
+![a picture of j.t.](https://app.netlify.com/sites/confident-jones-82287b/settings/general)
