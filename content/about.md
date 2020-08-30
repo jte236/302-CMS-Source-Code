@@ -6,6 +6,6 @@ draft: false
 
 Hello, Im Jack. This is me.
 
-![a picture of j.t.](https://confident-jones-82287b.netlify.app/profilepic.jpeg =250x)
+![a picture of j.t.](https://confident-jones-82287b.netlify.app/profilepic.jpeg){width=50%}
 
 
