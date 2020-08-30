@@ -29,8 +29,8 @@ Hobbies
     * Smash
     * GTA V
     
- + Board games
-   - Favorties:
++ Board games
+  - Favorties:
     * Monopoly
     * RISK
     * Cards Agaist Humainty
