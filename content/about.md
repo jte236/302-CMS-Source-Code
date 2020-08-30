@@ -11,7 +11,20 @@ Hello, Im Jack. This is me.
 Educational Things about me:
 ============================
 
-I am a college student who is majoring in *ICT Tech Management* with a minor in *CS* and a certificate in *CyberSecurity*.
+General
+-------
+I am a college student who is majoring in *ICT Tech Management* with a minor in *CS* and a certificate in *Cyber Security*.
+
+What is Tech Management
+-----------------------
+I get this question a lot so I though I would address this here. Tech management is basically what the name says. It is all about managing tech. It could be networks to cyber security to databases. They hold a wide range of jobs in one of the most open job feilds in the world right now.
+
+Work things about me:
+=====================
+
+General
+-------
+I currently hold an internship in web development using javascript and php as my primary languages.
 
 
 
