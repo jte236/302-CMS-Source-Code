@@ -39,6 +39,11 @@ Hobbies
  
  Media
  -----
+ + Currently Watching:
+  - Netflix: Love Death + Robots
+  - Hulu: AGT (Americas Got Talent)
+ + Currently Listening to: 
+  - folklore by *Taylor Swift*
     
 
 Educational Things about me:
