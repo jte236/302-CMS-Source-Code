@@ -48,6 +48,7 @@ Hobbies
 Web Link
 --------
 Since I am into web development I have another personal website that you should checkout if you have free time. It basically a web resume that has project links if your interested in some of the stuff I haved worked on.
+
 [jackteegarden.com](https://www.jackteegarden.com)
     
 
