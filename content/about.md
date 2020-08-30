@@ -14,7 +14,7 @@ Personal Things about me:
 General
 -------
 + Im 20
-+ I live on a farm with 5 cows, 7 cows, and 2 dogs and it can get crazy sometimes
++ I live on a farm with 5 goats, 7 cows, and 2 dogs and it can get crazy sometimes
 
 Hobbies
 -------
@@ -44,6 +44,11 @@ Hobbies
   - Hulu: AGT (Americas Got Talent)
 + Currently Listening to: 
   - folklore by *Taylor Swift*
+  
+Web Link
+--------
+Since I am into web development I have another personal website that you should checkout if you have free time. It basically a web resume that has project links if your interested in some of the stuff I haved worked on.
+[jackteegarden.com](https://www.jackteegarden.com)
     
 
 Educational Things about me:
