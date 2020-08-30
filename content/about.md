@@ -8,6 +8,14 @@ Hello, Im Jack. This is me.
 
 ![a picture of j.t.](https://confident-jones-82287b.netlify.app/profilepic.jpeg)
 
+Personal Things about me:
+=========================
+
+General
+-------
++ Im 20
++ I live on a farm with 5 cows, 7 cows, and 2 dogs and it can get crazy sometimes
+
 Educational Things about me:
 ============================
 
