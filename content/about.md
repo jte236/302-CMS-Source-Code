@@ -16,6 +16,31 @@ General
 + Im 20
 + I live on a farm with 5 cows, 7 cows, and 2 dogs and it can get crazy sometimes
 
+Hobbies
+-------
++ Computers
++ Web and App development
++ Video games
+  - Currently:
+    * The Fallen Jedi
+    * 2K
+    * Madden
+    * Breath of the Wild
+    * Smash
+    * GTA V
+    
+ + Board games
+   - Favorties:
+    * Monopoly
+    * RISK
+    * Cards Agaist Humainty
+    * Wingspan
+    * Any Card game (Spades, Hearts, etc)
+ 
+ Media
+ -----
+    
+
 Educational Things about me:
 ============================
 
