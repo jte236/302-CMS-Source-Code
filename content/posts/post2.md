@@ -8,7 +8,7 @@ Today was my second in-person class for this class. This week in class we create
 to who we are with an image. The point was to learn markup langauge using a language called *markdown*. During this week of class
 we went through some more of the 5 I cans and re-visited some of them as well. 
 
-Lets go through each one:
+Lets go through each one: 
 
 1. I can identify and define key concepts in (web) content management
     
