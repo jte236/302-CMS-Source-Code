@@ -1,5 +1,12 @@
+---
+title: "Learning Report for Module 2"
+date: 2020-08-30T00:00:00-04:00
+draft: false
+---
+
 Today was interesting. We tried to have our in-person class online due to the lack of students able to come into class. I thought the first part
-of the class went well. The part that was hard for me was when we broke into groups. I felt doing this over zoom was extremely difficult. But overall, it was that bad of an experience. Let's now move on to the I can statement for this week and how we covered them.
+of the class went well. The part that was hard for me was when we broke into groups. I felt doing this over zoom was extremely difficult. 
+But overall, it was that bad of an experience. Let's now move on to the I can statement for this week and how we covered them.
 Let's go through each one: 
 
 1. I can identify and define key concepts in (web) content management
@@ -14,7 +21,8 @@ Let's go through each one:
   
 3. I can manage content using established workflows
 
-   This week we hit this I can the hardest out of all five I can's. This week we set up the Microsoft Planner tab, and Wiki page tab. We used Planner for the Kanban Processes and to track our workflow. We used the Wiki page to layout group rules and roles going forward.
+   This week we hit this I can the hardest out of all five I can's. This week we set up the Microsoft Planner tab, and Wiki page tab. 
+   We used Planner for the Kanban Processes and to track our workflow. We used the Wiki page to layout group rules and roles going forward.
    
 4. I can identify and employ technologies related to content management
     
