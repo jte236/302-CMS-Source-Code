@@ -39,7 +39,6 @@ HUGO_ENABLEGITINFO = "true"
 name = "About"
 weight = 1
 url = "/about/"
-
 name = "Resource Guide"
 weight = 1
 url = "/resource-guide/"
