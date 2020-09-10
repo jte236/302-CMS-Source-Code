@@ -43,4 +43,11 @@ url = "/about/"
 name = "Resource Guide"
 weight = 1
 url = "/resource-guide/"
-
+[[menu.main]]
+name = "Walkthroughs"
+weight = 1
+url = "/walkthroughs/"
+[[menu.main]]
+name = "Annotated Guide"
+weight = 1
+url = "/annotated-guide/"
