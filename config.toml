@@ -1,7 +1,7 @@
 baseURL = "https://confident-jones-82287b.netlify.app/"
 languageCode = "en-us"
 title = "ICT 302 Pesonal Class Blog"
-theme = "hugo-theme-terminal-master"
+theme = "terminal"
 
 [build]
 publish = "public"
