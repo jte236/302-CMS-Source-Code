@@ -1,4 +1,8 @@
-
+--
+title: "Midsemester Reflection"
+date: 2020-10-18T00:00:00-04:00
+draft: false
+---
 
 
 What a crazy semester this has been. Who would have thought we would have been having class during a global pandemic? This class has really opened my eyes to the importance of content and that it can’t all be about presentation. Enough of that though.
@@ -9,8 +13,9 @@ Let's go through each one of the I can's for this class and review what we have 
 
 2. I can describe and compare content management systems.
   	- This one we have just really began doing but can already see the value in it. This semester so far, we have use two different CMS’s. *Hugo* and *Word Press*. While they are both are Content Management Systems, they are very different and are used to complete very different goals. Which is what * Why Organizations Pick CMS X Over CMS Y, By Deane Barker* is trying to get across. You can’t expect a system to do y when it’s built to do x. The best way to sum up this section is by this quote from that article:
-> *“CMS X can automatically push article titles and links into Twitter and Facebook. We don’t 
-> want to have to build that.” * This is what comparison is all about if a CMS can make something easier or offers something you need that another one doesn’t then that’s the one you should use.
+> “CMS X can automatically push article titles and links into Twitter and Facebook. We don’t want to have to build that.”
+
+This is what comparison is all about if a CMS can make something easier or offers something you need that another one doesn’t then that’s the one you should use.
 
 3. I can manage content using established workflows
    	- This has been the most useful and real world applicable I can of the class. We have gone over what workflows are and the job roles are needed in content management. The big ones are Editors, Developers, Admin for our class. In corporate America there are a couple additional jobs that would also need to be filled. The second biggest part of this I can we discussed is workflow management systems and there were a few to look at. The two I looked at were [Trello](https://trello.com/) and [Planner](https://tasks.office.com/). In class we use *Microsoft Teams* to communicate with the professor and with each other so our group choose planner since they were both *Microsoft* products and we used planner in an earlier assignment. The biggest takes away so far is that workflows are super important to make sure deadlines are met and that the group is aware of where a project is, who is currently working on it and how they can help finish it up.
