@@ -14,7 +14,6 @@ Let's go through each one of the I can's for this class and review what we have 
 2. I can describe and compare content management systems.
   	- This one we have just really began doing but can already see the value in it. This semester so far, we have use two different CMS’s. *Hugo* and *Word Press*. While they are both are Content Management Systems, they are very different and are used to complete very different goals. Which is what * Why Organizations Pick CMS X Over CMS Y, By Deane Barker* is trying to get across. You can’t expect a system to do y when it’s built to do x. The best way to sum up this section is by this quote from that article:
 > “CMS X can automatically push article titles and links into Twitter and Facebook. We don’t want to have to build that.”
-
 This is what comparison is all about if a CMS can make something easier or offers something you need that another one doesn’t then that’s the one you should use.
 
 3. I can manage content using established workflows
