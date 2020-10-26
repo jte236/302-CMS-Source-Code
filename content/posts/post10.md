@@ -1,10 +1,7 @@
 ---
-title: "Learning Report for Module 9"
-date: 2020-10-16T00:00:00-04:00
+title: "Learning Report for Module 10"
+date: 2020-10-25T00:00:00-04:00
 author: Jack Teegarden
-slug = "2020-10-25-Learning-Module"
-tags = ["Learning Module"]
-categories = ["302 Blog Post"]
 draft: false
 ---
 
