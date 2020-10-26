@@ -1,10 +1,11 @@
 ---
-draft = false
-date = 2020-10-25T11:37:59-05:00
-title = "Learning Module for Week 10"
+title: "Learning Report for Module 9"
+date: 2020-10-16T00:00:00-04:00
+author: Jack Teegarden
 slug = "2020-10-25-Learning-Module"
 tags = ["Learning Module"]
 categories = ["302 Blog Post"]
+draft: false
 ---
 
 This week felt a little slow and off. I was the only person to show up to class on friday so it was a little weird to just sot and work on stuff in silence, but it was nice to have the professor there to answer questions or problems that might have come up.
